@@ -121,4 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Authors and Acknowledgments
 
 - **Dan Buck** - *Creator and Maintaneir*
-[GitHub](https://github.com/Arthur-antunes98) | [LinkedIn](https://linkedin.com/in/arthur-antunes)
+[GitHub](https://github.com/Arthur-antunes98) | [LinkedIn](https://linkedin.com/in/arthur-antunes-8572691b9)
